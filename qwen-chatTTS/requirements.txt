@@ -1,0 +1,5 @@
+dashscope
+ebooklib
+natsort
+bs4
+python-dotenv
